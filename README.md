@@ -1,3 +1,5 @@
+[![An image of @ghanshyam2005singh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghanshyam2005singh)](https://holopin.io/@ghanshyam2005singh)
+
 <h1 align="center">Hi 👋, I'm Ghanshyam Singh</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
