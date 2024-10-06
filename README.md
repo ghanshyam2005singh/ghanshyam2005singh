@@ -1,5 +1,3 @@
-[![An image of @ghanshyam2005singh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghanshyam2005singh)](https://holopin.io/@ghanshyam2005singh)
-
 <h1 align="center">Hi 👋, I'm Ghanshyam Singh</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
@@ -36,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghanshyam2005singh&show_icons=true&locale=en" alt="ghanshyam2005singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyam2005singh&" alt="ghanshyam2005singh" /></p>
+
+[![An image of @ghanshyam2005singh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghanshyam2005singh)](https://holopin.io/@ghanshyam2005singh)
