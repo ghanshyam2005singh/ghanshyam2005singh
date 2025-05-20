@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="[https://www.buymeacoffee.com/ghanshyam_singh](https://buymeacoffee.com/https_ghanshyam)" target="_blank">
+  <a href="https://buymeacoffee.com/https_ghanshyam" target="_blank">
     <img src="https://img.shields.io/badge/☕️%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
