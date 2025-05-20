@@ -12,6 +12,12 @@
     <img src="https://img.shields.io/badge/Email-ghanshyam2005singh@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ghanshyam_singh" target="_blank">
+    <img src="https://img.shields.io/badge/☕️%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</p>
+
 
 ---
 
