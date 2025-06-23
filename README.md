@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghanshyam Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | Indie Hacker | Student Startup Founder</h3>
+<h3 align="center">🚀 Full Stack Developer | Indie Hacker | SaaS Builder | Founder @ Iron Industry</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ghanshyam-singh-b014232b2/" target="_blank">
@@ -18,27 +18,28 @@
   </a>
 </p>
 
-
 ---
 
 ### 👨‍💻 About Me
 
-- 🧑‍💻 Full Stack Developer (Frontend heavy, but backend strong 💪)
-- 🏢 Founder of **[Iron Industry](https://www.iron-industry.tech/)** – building student-first platforms
-- 🛠 Currently working on: `Homie Finder` & `Padh-le-Bhai`
-- 🧠 Learning: AI/ML, clean architecture, scalable systems
-- 🔐 Exploring: Privacy, security & ethical product design
-- 🌱 On a mission to improve my **personality, communication & leadership**
+- 🧑‍💻 Full Stack Developer (Frontend-heavy, backend-savvy)
+- 🏢 Founder of **[Iron Industry](https://www.iron-industry.tech/)** – building bold products for students
+- 🛠 Creator of `AlumConn` – a SaaS product to connect college students & verified alumni
+- 💼 Currently building: `Homie Finder`, `Padh-le-Bhai`, `CV Slayer`
+- 🌐 Strong in System Design, DevOps, Cloud (AWS), and modern Web Ecosystems
+- 🧠 Learning: Go, Rust, Solidity, low-level design, scaling techniques
+- 🎯 Focused on growth, leadership, and building meaningful tools
 
 ---
 
-### 💼 Projects
+### 💼 Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| **🔗 [AlumConnect](https://alum-connect-xi.vercel.app/)** | Connects students with alumni for mentorship & referrals |
-| **🏠 Homie Finder** | A trusted room & roommate discovery platform |
-| **📚 Padh-le-Bhai** | Share & explore notes, assignments, and study content |
+| **🔗 [AlumConn](https://alum-connect-xi.vercel.app/)** | A private SaaS platform for student-alumni networking & verified mentorship |
+| **🏠 Homie Finder** | Student-first platform to find trusted rooms, PGs & flatmates with profile credibility |
+| **📚 Padh-le-Bhai** | Community-driven platform for academic resources, notes, and assignments |
+| **🔥 CV Slayer** | AI-powered resume roasting app with 3 spice levels and a hint of humor |
 
 ---
 
@@ -49,6 +50,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 
@@ -63,14 +67,17 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 
 #### ⚙️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
 #### 🎨 Design & UI  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
@@ -80,11 +87,11 @@
 
 ### 💡 Soft Skills & Values
 
-- ✨ Strong work ethic and self-discipline  
-- 🧠 Deep focus on learning & problem-solving  
-- 💬 Active communicator and team player  
-- 📈 Product-minded and growth-focused  
-- 👔 Dedicated to personality development and leadership
+- ✨ Relentless learner & builder
+- 💬 Clear communicator & mentor mindset
+- 📈 Product-first thinking, data-driven execution
+- 🧠 Systems thinker & solution-focused
+- 👔 Focused on growth, discipline, leadership & vision
 
 ---
 
@@ -99,16 +106,14 @@
 
 ---
 
-### 🧭 Goals for 2025
+### 🧭 2025 Vision & Goals
 
-- 🚀 Launch & monetize Homie Finder and Padh-le-Bhai
-- 🧱 Learn low-level concepts: OS, networking, systems design
-- 🔐 Explore AI/ML in privacy-first student tools
-- 📢 Grow my network & improve public speaking
-- 📖 Keep becoming a better version of myself daily
+- 🚀 Launch & scale SaaS products: AlumConn, Homie Finder, Padh-le-Bhai
+- 📚 Master low-level & system design topics
+- 🤖 Apply AI/ML to ethical, privacy-first tools
+- 🗣️ Improve communication, storytelling, and public speaking
+- 🌍 Help thousands of students through my platforms
 
 ---
 
 > “Build what people **need**, not just what’s cool.” – *Ghanshyam Singh*
-
----
