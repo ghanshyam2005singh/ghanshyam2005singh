@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghanshyam Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | Indie Hacker | SaaS Builder | Founder @ Iron Industry</h3>
+<h3 align="center">🚀 Full Stack Developer | Indie Hacker | SaaS Builder | Builder @ Iron Industry</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ghanshyam-singh-b014232b2/" target="_blank">
@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me
 
 - 🧑‍💻 Full Stack Developer (Frontend-heavy, backend-savvy)
-- 🏢 Founder of **[Iron Industry](https://www.iron-industry.tech/)** – building bold products for students
+- 🏢 Builder of **[Iron Industry](https://www.iron-industry.tech/)** – building bold products for students
 - 🛠 Creator of `AlumConn` – a SaaS product to connect college students & verified alumni
 - 💼 Currently building: `Homie Finder`, `Padh-le-Bhai`, `CV Slayer`
 - 🌐 Strong in System Design, DevOps, Cloud (AWS), and modern Web Ecosystems
