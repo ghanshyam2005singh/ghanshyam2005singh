@@ -171,7 +171,6 @@
 ![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
 
 </div>
----
 
 ## 🏆 Featured Projects & Creations
 
@@ -179,14 +178,14 @@
 
 | Project | Tech Stack | Description | Status |
 |---------|------------|-------------|--------|
-| **[AlumConn](link)** | React, Node.js, PostgreSQL | SaaS platform for verified student‑alumni mentoring | 🚀 Live |
-| **[Homie Finder](link)** | Next.js, Supabase, TailwindCSS | Trustworthy roommate & PG finder with social verification | 🚀 Live |
-| **[CV Slayer](link)** | React, OpenAI API, Node.js | AI‑powered CV review app with three levels of sass | 🚀 Live |
-| **[Padh-le-Bhai](link)** | MERN Stack, Material-UI | Community‑powered academic resource hub | 🚀 Live |
-| **[Zombie Survival Shooter](link)** | Phaser3, Firebase | Game with Firebase scoring engine | 🎮 Game |
-| **[TokenCharge](link)** | Solidity, Web3, Base | Web3 recharge dApp using Solidity on Base Sepolia | ⛓️ Web3 |
-| **[Task Manager](link)** | MERN, JWT, Material-UI | Full‑stack to‑do app with authentication | 📱 App |
-| **[Dev Env Backup](link)** | Shell Scripts, Node.js | One‑click dev‑environment backup & restore scripts | 🛠️ Tool |
+| **[AlumConn]([link](https://alumconn.in/))** | React, Node.js, PostgreSQL | SaaS platform for verified student‑alumni mentoring | 🚀 Live |
+| **[Homie Finder]([link](https://github.com/ghanshyam2005singh/Task-Manager))** | Next.js, Supabase, TailwindCSS | Trustworthy roommate & PG finder with social verification | 🚀 Live |
+| **[CV Slayer]([link](https://github.com/ghanshyam2005singh/CV-Slayer))** | React, OpenAI API, Node.js | AI‑powered CV review app with three levels of sass | 🚀 Live |
+| **[Padh-le-Bhai]([link](https://padh-le-bhai-one.vercel.app/))** | MERN Stack, Material-UI | Community‑powered academic resource hub | 🚀 Live |
+| **[Zombie Survival Shooter]([link](https://github.com/ghanshyam2005singh/Zombie-Survival-Shooter))** | Phaser3, Firebase | Game with Firebase scoring engine | 🎮 Game |
+| **[Voting-App](link](https://github.com/ghanshyam2005singh/Voting-App))** | Solidity, Web3, Base | Web3 recharge dApp using Solidity on Base Sepolia | ⛓️ Web3 |
+| **[Task Manager]([link](https://github.com/ghanshyam2005singh/Task-Manager))** | MERN, JWT, Material-UI | Full‑stack to‑do app with authentication | 📱 App |
+| **[Dev Env Backup]([link](https://github.com/ghanshyam2005singh/script-for-backup-the-data))** | Shell Scripts, Node.js | One‑click dev‑environment backup & restore scripts | 🛠️ Tool |
 
 </div>
 
