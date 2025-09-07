@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ghanshyam Singh</h1>
-<h3 align="center">🚀 Full Stack Engineer • Indie Hacker • SaaS Builder • OSS Contributor • System Design Aficionado</h3>
+<h3 align="center">🚀 Full Stack Engineer • Indie Hacker • SaaS Builder • OSS Contributor • System Design</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Building+SaaS+for+students;Shipping+Rust+and+Solidity;Designing+scalable+infra;Contributing+to+open+source" alt="Typing SVG" />
@@ -34,7 +34,7 @@
 ## 🚀 About Me
 
 - 🛠 Builder @ [Iron Industry](https://www.iron-industry.tech) — empowering students with next‑gen SaaS tools  
-- 🌟 Open‑Source Contributor: **GSSoC '24**, **SheBriight**, **DevRhylme Foundation**, **MifosX**  
+- 🌟 Open‑Source Contributor: **CNCF**, **Apache**, **MifosX**, **GSSoC '24**, **SheBright**, **DevRhylme Foundation** 
 - 🏗️ Deep in **System Design**, **DevOps**, **Cloud Architecture** & **CI/CD**  
 - 📚 Currently mastering: **Solidity**, **Rust**, **Go**, **C#**, low‑level design, scaling systems  
 - 🎯 **2025 Goal**: Launch 3 SaaS startups & contribute to major OSS projects
@@ -241,10 +241,10 @@ graph TB
 </div>
 
 **Open Source Contributions:**
-- 🌟 **GSSoC '24** - Active contributor to multiple repositories
-- 💪 **SheBriight** - Supporting women in tech initiatives
+- 🌟 **CNCF** - Active contributor to multiple repositories
+- 💪 **SheBright** - Supporting women in tech initiatives
 - 🏗️ **DevRhylme Foundation** - Building developer tools
-- 💰 **MifosX** - Financial inclusion platform contributions
+- 💰 **Apache** - Platform contributions
 
 ---
 
