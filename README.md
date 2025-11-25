@@ -39,9 +39,12 @@
 ### 🔹 **CNCF – Kubestellar (Multi-Cluster Management Ecosystem)**
 
 <img src="https://img.shields.io/badge/CNCF%20Kubestellar-Open%20Source%20Intern-0f62fe?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<a href="https://badges.parchment.com/public/assertions/8-5UwvXORn6eSo-xSZ_mhQ?identity__email=ghanshyam2005singh%40gmail.com" target="_blank">
+  <img src="./public/kubestellar.png" width="300">
+</a>
 
 **Role:** Open Source Intern — Agentic AI & Documentation Engineering
-**Duration:** 2024–2025
+**Duration:** Sep 2025– Nov 2025
 
 **Highlights:**
 
@@ -49,7 +52,6 @@
 * Built **AI-powered documentation chatbot** for users
 * Improved documentation website (UI + content architecture)
 * Raised **20+ PRs**, reviewed **21 PRs**, solved critical issues
-* Worked with maintainers like **Andy Anderson**
 
 ---
 
@@ -138,15 +140,6 @@ graph TB
 </div>
 
 ---
-
-## 🪪 Certifications & Badges
-
-### **CNCF – Kubestellar Internship (Multi-Cluster Management Project)**  
-Built Agentic AI systems, documentation automation, and chatbot for docs, raised 20+ PRs, reviewed 21+ PRs.
-
-<a href="https://badges.parchment.com/public/assertions/8-5UwvXORn6eSo-xSZ_mhQ?identity__email=ghanshyam2005singh%40gmail.com" target="_blank">
-  <img src="https://badges.parchment.com/public/assertions/8-5UwvXORn6eSo-xSZ_mhQ?identity__email=ghanshyam2005singh%40gmail.com&size=large" width="220" />
-</a>
 
 ### 💬 “Code the infrastructure others just conceive.”
 
