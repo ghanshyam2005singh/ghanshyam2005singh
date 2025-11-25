@@ -95,8 +95,8 @@ Linux • WSL2 • Git • Vercel • Railway • Render
 | ------------------------------------ | --------------------------- | ------------------------------------------ |
 | **[AlumConn](https://alumconn.in/)** | React, Node, PostgreSQL     | SaaS for verified alumni–student mentoring |
 | **Homie Finder**                     | Next.js, Supabase, Tailwind | Social-verified roommate/PG finder         |
-| **CV Slayer**                        | React, Node, OpenAI API     | AI-powered CV reviewer with sass modes     |
-| **Padh-le-Bhai**                     | MERN, MUI                   | Community academic resources platform      |
+| **[CV Slayer](https://cv-slayer-ppnn.onrender.com/)**                        | React, Node, OpenAI API     | AI-powered CV reviewer with sass modes     |
+| **[Padh-le-Bhai](https://padh-le-bhai-one.vercel.app/)**                     | MERN, MUI                   | Community academic resources platform      |
 | **Dev Env Backup**                   | Shell • Node                | One-click dev environment backup script    |
 
 </div>
