@@ -128,15 +128,19 @@ graph TB
 
 ---
 
-# 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghanshyam2005singh&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam2005singh&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghanshyam2005singh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam2005singh&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyam2005singh&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyam2005singh&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghanshyam2005singh&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=638fda&point=35bcbf&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
