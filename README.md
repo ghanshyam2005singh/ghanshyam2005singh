@@ -40,7 +40,7 @@
 
 <img src="https://img.shields.io/badge/CNCF%20Kubestellar-Open%20Source%20Intern-0f62fe?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <a href="https://badges.parchment.com/public/assertions/8-5UwvXORn6eSo-xSZ_mhQ?identity__email=ghanshyam2005singh%40gmail.com" target="_blank">
-  <img src="./public/kubestellar.png" width="300">
+  <img src="kubestellar.png" width="300">
 </a>
 
 **Role:** Open Source Intern — Agentic AI & Documentation Engineering
