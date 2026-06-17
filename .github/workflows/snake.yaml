@@ -1,8 +1,8 @@
-name: generate animation
+name: generate contribution calendar
 
 on:
   schedule:
-    - cron: "0 0 */2 * *"
+    - cron: "0 0 * * *"
 
   workflow_dispatch:
 
@@ -18,16 +18,93 @@ jobs:
       contents: write
 
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - name: Generate contribution calendar SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: |
+          python3 << 'EOF'
+          import json, urllib.request, os
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+          username = os.environ['GITHUB_REPOSITORY_OWNER']
+          token = os.environ['GITHUB_TOKEN']
+
+          query = """
+          query($login: String!) {
+            user(login: $login) {
+              contributionsCollection {
+                contributionCalendar {
+                  weeks {
+                    contributionDays {
+                      contributionCount
+                      date
+                      color
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          payload = json.dumps({"query": query, "variables": {"login": username}}).encode()
+          req = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=payload,
+              headers={
+                  "Authorization": f"Bearer {token}",
+                  "Content-Type": "application/json"
+              }
+          )
+          with urllib.request.urlopen(req) as resp:
+              data = json.loads(resp.read())
+
+          weeks = data['data']['user']['contributionsCollection']['contributionCalendar']['weeks']
+
+          # light-mode → dark-mode color remap
+          dark = {
+              '#ebedf0': '#161b22',
+              '#9be9a8': '#0e4429',
+              '#40c463': '#006d32',
+              '#30a14e': '#26a641',
+              '#216e39': '#39d353',
+          }
+
+          cell, gap, pad_top = 11, 3, 20
+
+          def build_svg(bg, color_map):
+              rects = []
+              for wi, week in enumerate(weeks):
+                  for di, day in enumerate(week['contributionDays']):
+                      x = wi * (cell + gap)
+                      y = pad_top + di * (cell + gap)
+                      color = color_map.get(day['color'], day['color'])
+                      count = day['contributionCount']
+                      rects.append(
+                          f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" fill="{color}">'
+                          f'<title>{count} contributions on {day["date"]}</title></rect>'
+                      )
+              w = len(weeks) * (cell + gap)
+              h = pad_top + 7 * (cell + gap)
+              return (
+                  f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">'
+                  f'<rect width="{w}" height="{h}" rx="6" fill="{bg}"/>'
+                  + ''.join(rects) +
+                  '</svg>'
+              )
+
+          os.makedirs('dist', exist_ok=True)
+
+          with open('dist/contribution-calendar.svg', 'w') as f:
+              f.write(build_svg('#ffffff', {}))
+
+          with open('dist/contribution-calendar-dark.svg', 'w') as f:
+              f.write(build_svg('#0d1117', dark))
+
+          print(f"Generated calendars for {username} ({len(weeks)} weeks)")
+          EOF
+
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
