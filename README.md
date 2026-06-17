@@ -95,7 +95,7 @@
 
 ## GitHub Activity
 
-![Ghanshyam's GitHub Contributions](https://ghchart.romansorin.com/ghanshyam2005singh)
+![Ghanshyam's GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghanshyam2005singh&theme=tokyonight)
 
 ![Ghanshyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghanshyam2005singh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghanshyam2005singh&theme=tokyonight&hide_border=true)
